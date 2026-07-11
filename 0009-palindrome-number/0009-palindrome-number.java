@@ -4,7 +4,7 @@ class Solution {
         if(x<0){
             return false;
         }else{
-            int n=0;
+            long n=0;
             while(x>0){
                 int r=x%10;
                 n=n*10+r;
