@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
 | ------- |
