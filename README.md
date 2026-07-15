@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
+| [2469-convert-the-temperature](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2469-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
