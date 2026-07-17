@@ -17,9 +17,9 @@ public:
             if(mid%2==0){
                 //even size
                 if(nums[mid]==nums[mid-1]){
-                    end=mid-2; 
+                    end=mid-1; 
                 }else{
-                    start=mid+2; 
+                    start=mid+1; 
                 }
             }else{//odd size
                 if(nums[mid]==nums[mid-1]){
