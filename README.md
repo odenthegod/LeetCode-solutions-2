@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0027-remove-element) |
+| [0925-long-pressed-name](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0925-long-pressed-name) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
+| [0925-long-pressed-name](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
 |  |
