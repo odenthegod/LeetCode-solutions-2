@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2733-neither-minimum-nor-maximum) |
+| [3701-compute-alternating-sum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3701-compute-alternating-sum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
 | [2553-separate-the-digits-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2553-separate-the-digits-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
 | ------- |
