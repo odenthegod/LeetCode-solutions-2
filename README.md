@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2413-smallest-even-multiple) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
 | [0925-long-pressed-name](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1108-defanging-an-ip-address) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Simulation
 |  |
 | ------- |
