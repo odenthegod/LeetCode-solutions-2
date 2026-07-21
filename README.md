@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2469-convert-the-temperature) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1108-defanging-an-ip-address) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Simulation
 |  |
 | ------- |
