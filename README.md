@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0925-long-pressed-name) |
 ## Greedy
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
 | [2733-neither-minimum-nor-maximum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2733-neither-minimum-nor-maximum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3745-maximize-expression-of-three-elements) |
