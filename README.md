@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0925-long-pressed-name) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
 | [0925-long-pressed-name](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1108-defanging-an-ip-address) |
