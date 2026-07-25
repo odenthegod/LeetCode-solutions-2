@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2239-find-closest-number-to-zero](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2239-find-closest-number-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2733-neither-minimum-nor-maximum) |
