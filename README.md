@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2733-neither-minimum-nor-maximum) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3701-compute-alternating-sum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3701-compute-alternating-sum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
