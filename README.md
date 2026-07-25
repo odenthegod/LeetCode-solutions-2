@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3360-stone-removal-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
