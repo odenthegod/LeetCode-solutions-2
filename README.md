@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1227-airplane-seat-assignment-probability](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1227-airplane-seat-assignment-probability) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0344-reverse-string) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0032-longest-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Geometry
 |  |
