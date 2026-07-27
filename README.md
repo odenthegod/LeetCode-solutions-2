@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1227-airplane-seat-assignment-probability) |
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1979-find-greatest-common-divisor-of-array) |
