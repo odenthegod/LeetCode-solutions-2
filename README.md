@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3360-stone-removal-game) |
 | [3492-maximum-containers-on-a-ship](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3492-maximum-containers-on-a-ship) |
+| [3536-maximum-product-of-two-digits](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3783-mirror-distance-of-an-integer) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1051-height-checker) |
 | [2706-buy-two-chocolates](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2733-neither-minimum-nor-maximum) |
+| [3536-maximum-product-of-two-digits](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3536-maximum-product-of-two-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3745-maximize-expression-of-three-elements) |
 ## Divide and Conquer
 |  |
