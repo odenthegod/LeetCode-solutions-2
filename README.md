@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3701-compute-alternating-sum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3701-compute-alternating-sum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3745-maximize-expression-of-three-elements) |
+| [3861-minimum-capacity-box](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3861-minimum-capacity-box) |
 ## Two Pointers
 |  |
 | ------- |
