@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0476-number-complement) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
