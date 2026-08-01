@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0633-sum-of-square-numbers) |
+| [1025-divisor-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1227-airplane-seat-assignment-probability) |
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1227-airplane-seat-assignment-probability) |
 ## Counting
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0796-rotate-string) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
