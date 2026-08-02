@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0326-power-of-three) |
 ## Prefix Sum
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1025-divisor-game) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
