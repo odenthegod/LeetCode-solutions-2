@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1534-count-good-triplets) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2239-find-closest-number-to-zero](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2239-find-closest-number-to-zero) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2553-separate-the-digits-in-an-array) |
 | [3360-stone-removal-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3360-stone-removal-game) |
