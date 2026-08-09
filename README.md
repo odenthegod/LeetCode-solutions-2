@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0032-longest-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0225-implement-stack-using-queues) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Geometry
 |  |
@@ -324,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
