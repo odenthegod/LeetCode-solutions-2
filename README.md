@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0075-sort-colors) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0540-single-element-in-a-sorted-array) |
