@@ -14,6 +14,6 @@ class Solution {
             start = mid + 1;
         }
         }
-        return start;//if now found
+        return start;//if not found
     }
 }
