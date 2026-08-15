@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
