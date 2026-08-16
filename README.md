@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2057-smallest-index-with-equal-value) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2239-find-closest-number-to-zero](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2239-find-closest-number-to-zero) |
+| [2549-count-distinct-numbers-on-board](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2706-buy-two-chocolates) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2549-count-distinct-numbers-on-board](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2549-count-distinct-numbers-on-board) |
 | [3790-smallest-all-ones-multiple](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3790-smallest-all-ones-multiple) |
 ## Math
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2544-alternating-digit-sum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2544-alternating-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2549-count-distinct-numbers-on-board) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3099-harshad-number) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2549-count-distinct-numbers-on-board](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2553-separate-the-digits-in-an-array) |
 | [3360-stone-removal-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3360-stone-removal-game) |
 | [3701-compute-alternating-sum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3701-compute-alternating-sum) |
