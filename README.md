@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2574-left-and-right-sum-differences) |
+| [2683-neighboring-bitwise-xor](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2683-neighboring-bitwise-xor) |
 | [2706-buy-two-chocolates](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2733-neither-minimum-nor-maximum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0476-number-complement) |
+| [2683-neighboring-bitwise-xor](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2683-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
