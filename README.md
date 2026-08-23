@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2683-neighboring-bitwise-xor](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2683-neighboring-bitwise-xor) |
 | [2706-buy-two-chocolates](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2733-neither-minimum-nor-maximum) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2549-count-distinct-numbers-on-board](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2549-count-distinct-numbers-on-board) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3790-smallest-all-ones-multiple](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3790-smallest-all-ones-multiple) |
 ## Math
 |  |
