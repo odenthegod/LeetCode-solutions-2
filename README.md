@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2057-smallest-index-with-equal-value) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2239-find-closest-number-to-zero](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2239-find-closest-number-to-zero) |
+| [2527-find-xor-beauty-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2527-find-xor-beauty-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2574-left-and-right-sum-differences) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0476-number-complement) |
+| [2527-find-xor-beauty-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2527-find-xor-beauty-of-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2683-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2527-find-xor-beauty-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2527-find-xor-beauty-of-array) |
 | [2544-alternating-digit-sum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2549-count-distinct-numbers-on-board) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2806-account-balance-after-rounded-purchase) |
