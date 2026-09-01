@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0605-can-place-flowers) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
