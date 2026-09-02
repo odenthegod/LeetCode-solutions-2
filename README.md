@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3701-compute-alternating-sum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3745-maximize-expression-of-three-elements) |
 | [3861-minimum-capacity-box](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3861-minimum-capacity-box) |
+| [3875-construct-uniform-parity-array-i](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3783-mirror-distance-of-an-integer) |
 | [3790-smallest-all-ones-multiple](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3790-smallest-all-ones-multiple) |
+| [3875-construct-uniform-parity-array-i](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
