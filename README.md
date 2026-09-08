@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0633-sum-of-square-numbers) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0796-rotate-string) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2154-keep-multiplying-found-values-by-two) |
