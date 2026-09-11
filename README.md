@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0217-contains-duplicate) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0292-nim-game) |
@@ -326,12 +328,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1534-count-good-triplets) |
 | [2843-count-symmetric-integers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -439,4 +443,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0240-search-a-2d-matrix-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
