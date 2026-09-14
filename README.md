@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0796-rotate-string) |
 ## Game Theory
 |  |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -468,13 +470,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0100-same-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
