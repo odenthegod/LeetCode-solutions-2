@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0075-sort-colors) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0881-boats-to-save-people) |
 | [2706-buy-two-chocolates](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2706-buy-two-chocolates) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0213-house-robber-ii) |
