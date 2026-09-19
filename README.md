@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1227-airplane-seat-assignment-probability) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Brainteaser
 |  |
