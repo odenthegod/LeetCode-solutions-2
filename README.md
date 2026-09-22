@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1051-height-checker) |
+| [1470-shuffle-the-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1534-count-good-triplets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1588-sum-of-all-odd-length-subarrays) |
