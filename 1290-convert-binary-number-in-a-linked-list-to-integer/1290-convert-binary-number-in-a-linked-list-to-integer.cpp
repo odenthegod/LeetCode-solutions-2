@@ -32,6 +32,7 @@ public:
             total+=product;
             exp++;
         }
+        delete[] arr;
         return total;
     }
 };
