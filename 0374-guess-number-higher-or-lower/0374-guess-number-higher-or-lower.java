@@ -9,7 +9,6 @@
 
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
-        if(n==1) return 1;
         int l=1,r=n;
         while(l<=r){
             int mid=l+(r-l)/2;
