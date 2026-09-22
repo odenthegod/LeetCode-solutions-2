@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1534-count-good-triplets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0560-subarray-sum-equals-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2549-count-distinct-numbers-on-board](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2549-count-distinct-numbers-on-board) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2706-buy-two-chocolates](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2733-neither-minimum-nor-maximum) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Backtracking
 |  |
 | ------- |
