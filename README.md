@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1227-airplane-seat-assignment-probability) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
