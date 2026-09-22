@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0704-binary-search) |
@@ -533,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
