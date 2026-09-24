@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3861-minimum-capacity-box](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3925-concatenate-array-with-reverse) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3536-maximum-product-of-two-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3745-maximize-expression-of-three-elements) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
