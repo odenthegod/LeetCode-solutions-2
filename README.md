@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1991-find-the-middle-index-in-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2057-smallest-index-with-equal-value) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2239-find-closest-number-to-zero](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2239-find-closest-number-to-zero) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2574-left-and-right-sum-differences) |
 ## String
 |  |
