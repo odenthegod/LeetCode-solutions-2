@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1051-height-checker) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1512-number-of-good-pairs) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2089-find-target-indices-after-sorting-array) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Primality Test
 |  |
 | ------- |
