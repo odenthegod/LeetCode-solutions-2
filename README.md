@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0476-number-complement) |
 | [2527-find-xor-beauty-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2527-find-xor-beauty-of-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0326-power-of-three) |
+| [0371-sum-of-two-integers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0507-perfect-number) |
