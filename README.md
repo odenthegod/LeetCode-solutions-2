@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2683-neighboring-bitwise-xor](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2683-neighboring-bitwise-xor) |
 | [2706-buy-two-chocolates](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1534-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3745-maximize-expression-of-three-elements) |
