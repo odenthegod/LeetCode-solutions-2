@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0476-number-complement) |
 | [2527-find-xor-beauty-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2527-find-xor-beauty-of-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2683-neighboring-bitwise-xor) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0507-perfect-number) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0443-string-compression) |
