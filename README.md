@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2785-sort-vowels-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
 | ------- |
