@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0925-long-pressed-name) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
