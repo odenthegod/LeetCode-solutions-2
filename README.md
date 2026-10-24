@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3745-maximize-expression-of-three-elements) |
 | [3861-minimum-capacity-box](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3875-construct-uniform-parity-array-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0881-boats-to-save-people) |
 | [2706-buy-two-chocolates](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2706-buy-two-chocolates) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bit Manipulation
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2785-sort-vowels-in-a-string) |
 | [3467-transform-array-by-parity](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3745-maximize-expression-of-three-elements) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Divide and Conquer
