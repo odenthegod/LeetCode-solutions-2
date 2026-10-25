@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2409-count-days-spent-together) |
 | [2785-sort-vowels-in-a-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2785-sort-vowels-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3498-reverse-degree-of-a-string) |
