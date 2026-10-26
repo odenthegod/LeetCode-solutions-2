@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0976-largest-perimeter-triangle) |
 | [2706-buy-two-chocolates](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2706-buy-two-chocolates) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1227-airplane-seat-assignment-probability) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -636,4 +640,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
