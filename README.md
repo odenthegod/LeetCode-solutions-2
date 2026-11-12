@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0887-super-egg-drop) |
 | [0976-largest-perimeter-triangle](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1227-airplane-seat-assignment-probability) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0887-super-egg-drop](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0887-super-egg-drop) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/odenthegod/LeetCode-solutions-2/tree/master/1227-airplane-seat-assignment-probability) |
 ## Counting
